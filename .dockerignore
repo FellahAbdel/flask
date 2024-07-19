@@ -1,0 +1,7 @@
+.my_venv
+.vscode
+__pycache__
+*.pyc
+README.md
+notes.txt
+*.md
